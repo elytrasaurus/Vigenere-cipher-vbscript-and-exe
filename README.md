@@ -13,3 +13,8 @@ A cool vbs encrypter. Uses vigenere cipher.
 7. **Choose Destination & Name:** Select the folder where you want to save the output, and type a custom name for your new file.
 8. **Select Extension (Encryption Only):** Choose whether to save it as a normal text file (`.txt`) or disguise it as a hidden system data file (`.dat`).
 9. **Open Your File:** Click **Yes** on the final popup if you want to instantly view your new file in Notepad!
+## Disclaimer & Limitation of Liability
+
+This software is provided "as is", without warranty of any kind, express or implied. In no event shall the author(s) or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+**Educational Purpose Only:** This tool is created for educational and personal data management purposes. The author does not condone, support, or take any responsibility for any malicious, illegal, or unauthorized use of this software. By downloading or using this script, you agree that you are fully responsible for your own actions.
