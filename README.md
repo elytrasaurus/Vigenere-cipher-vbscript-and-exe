@@ -3,7 +3,7 @@ A cool vbs encrypter. Uses vigenere cipher. Windows ONLY.
 ## Important Note on Encryption Keys
 * **Letters Only:** Please use only standard alphabetical letters (A-Z, a-z) for your custom encryption keys.
 * **Avoid Numbers & Symbols:** Including numbers, spaces, or special characters in your key will cause the cipher math to calculate incorrect character shifts, which will break the decryption process.
-## How to Use
+## How to Use (VBScript Version)
 1. **Download the Script:** Download the `encryptor.vbs` file and place it on your computer (e.g., your Desktop).
 2. **Prepare Your Text File:** Create a standard text file (`.txt`) or a different extension that might be similar containing the message you want to encrypt or decrypt. Place it in the same folder as the script for the fastest setup.
 3. **Run the Tool:** Double-click `encryptor.vbs` to launch it.
